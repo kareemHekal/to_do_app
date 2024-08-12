@@ -9,23 +9,22 @@ class MyThemeAppData {
     appBarTheme: AppBarTheme(
         color: app_colors.blue,
         elevation: 0,
-        toolbarHeight: 157,
         titleSpacing: 51),
     textTheme: TextTheme(
       bodySmall: GoogleFonts.roboto(
         color: app_colors.white,
-        fontSize: 12,
+        fontSize: 15,
         fontWeight: FontWeight.w400,
       ),
       bodyMedium: GoogleFonts.roboto(
         color: app_colors.white,
-        fontSize: 15,
+        fontSize: 18,
         fontWeight: FontWeight.w700,
       ),
       bodyLarge: GoogleFonts.roboto(
         color: app_colors.white,
-        fontSize: 18,
-        fontWeight: FontWeight.w700,
+        fontSize: 25,
+        fontWeight: FontWeight.w800,
       ),
     ),
     bottomNavigationBarTheme: BottomNavigationBarThemeData(
@@ -44,23 +43,23 @@ class MyThemeAppData {
     appBarTheme: AppBarTheme(
         color: app_colors.blue,
         elevation: 0,
-        toolbarHeight: 157,
+
         titleSpacing: 51),
     textTheme: TextTheme(
       bodySmall: GoogleFonts.roboto(
         color: app_colors.black,
-        fontSize: 12,
+        fontSize: 15,
         fontWeight: FontWeight.w400,
       ),
       bodyMedium: GoogleFonts.roboto(
         color: app_colors.black,
-        fontSize: 15,
+        fontSize: 18,
         fontWeight: FontWeight.w700,
       ),
       bodyLarge: GoogleFonts.roboto(
         color: app_colors.black,
-        fontSize: 18,
-        fontWeight: FontWeight.w700,
+        fontSize: 25,
+        fontWeight: FontWeight.w800,
       ),
     ),
     bottomNavigationBarTheme: BottomNavigationBarThemeData(
