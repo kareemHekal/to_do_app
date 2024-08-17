@@ -4,7 +4,8 @@ import 'package:flutter/widgets.dart';
 import 'package:todo/colors_app.dart';
 import 'package:todo/tabs/Settings_tab.dart';
 import 'package:todo/tabs/Tasks_tab.dart';
-import 'package:todo/tabs/bottomshet/addTaskBottomSheet.dart';
+
+import 'bottomshet/addTaskBottomSheet.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});
